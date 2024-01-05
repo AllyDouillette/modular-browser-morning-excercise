@@ -1,0 +1,22 @@
+{
+  "name": "modular-browser-morning-excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllyDouillette/modular-browser-morning-excercise.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Ally Douillette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllyDouillette/modular-browser-morning-excercise/issues"
+  },
+  "homepage": "https://github.com/AllyDouillette/modular-browser-morning-excercise#readme"
+}
